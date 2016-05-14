@@ -20,8 +20,7 @@ These tools (and many others) are included in this release. The ones below have 
 
 ### Compiling the code
 
-_These details are incomplete and inaccurate. We'll update them soon!!_
-The code requires C# 4.0 and has only been tested in the Windows enviroment. Note that we take a dependency on [Sho](http://research.microsoft.com/en-us/projects/sho/). Our Escience project requires those binaries in order to compile. Once you clone the repo, install the Sho binaries to your machine, then run the copyShoBinaries.bat within the the Escience\ShoUtils source directory to install the binaries.
+_pending..._
 
 ### Installing the binaries
 
