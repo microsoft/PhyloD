@@ -24,7 +24,7 @@ _pending..._
 
 ### Installing the binaries
 
-Use the Release tab to download precompiled (for windows) binaries.
+Use the [Release tab](https://github.com/Microsoft/PhyloD/releases) to download precompiled (for windows) binaries.
 
 ### Contact
 
