@@ -5,6 +5,9 @@ HIV, like most retroviruses, is characterized by a tremendous rate of mutation, 
 
 __Our most popular tools are exposed as a web app at http://phylod.research.microsoft.com__
 
+__Use the [Release tab](https://github.com/Microsoft/PhyloD/releases) to download precompiled (for windows) binaries.__
+
+
 ### Publications
 
 These tools have been used in many publications. Within each release is a set of batch scripts for running examples. Each batch script contains the primary publication that should be cited. Please follow those guidelines. 
@@ -20,11 +23,7 @@ These tools (and many others) are included in this release. The ones below have 
 
 ### Compiling the code
 
-_pending..._
-
-### Installing the binaries
-
-Use the [Release tab](https://github.com/Microsoft/PhyloD/releases) to download precompiled (for windows) binaries.
+_We aim to get the source code up in the coming weeks._
 
 ### Contact
 
